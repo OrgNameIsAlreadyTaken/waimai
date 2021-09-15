@@ -11,8 +11,8 @@
 终端内:<br/>
 
     git init
-    git remote add   你自定义的连接时用的英文名字   GitHub仓库代码
-    git pull   你自定义的连接时用的英文名字  main
+    git remote add   你自定义的连接远程仓库时用的英文名字   GitHub仓库代码
+    git pull   你自定义的连接远程仓库时用的英文名字  main
     cd waimai
     npm i
 
