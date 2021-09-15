@@ -11,15 +11,15 @@
 终端内:<br/>
 
     git init
-    git remote add   你自定义的l连接时用的英文名字   GitHub仓库代码
-    git pull   你自定义的l连接时用的英文名字  main
+    git remote add   你自定义的连接时用的英文名字   GitHub仓库代码
+    git pull   你自定义的连接时用的英文名字  main
     cd waimai
     npm i
 
 初始化结束<br/>
 
 ### 提交流程:
-在本文件所在目录下打开新终端
+在本文件所在目录下打开新终端<br/>
 终端内:<br/>
 
     git add .  //暂存所有更改,注意在add和.之间加上空格 
