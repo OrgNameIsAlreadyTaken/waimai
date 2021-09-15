@@ -10,7 +10,7 @@
 文件夹中打开vscode<br/>
 终端内:<br/>
 
-    `git init`
+    git init
     `git remote add   你自定义的l连接时用的英文名字   GitHub仓库代码`
     `git pull   你自定义的l连接时用的英文名字  main`  
     `cd waimai`
